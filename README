@@ -1,0 +1,6 @@
+This is a Vanilla 1.x Forums module that installs the Summify.com link
+summarization and preview widget. The module inserts a remote <script>
+tag at the end of the page.
+
+You need to register for a Summify username at http://summify.com/register/
+
